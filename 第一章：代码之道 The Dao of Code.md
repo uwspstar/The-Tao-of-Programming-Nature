@@ -116,7 +116,7 @@ public class OrderService : IOrderService
 
 ```mermaid
 flowchart TD
-    A[Client Request] --> B[OrderService.PlaceOrder()]
+    A[Client Request] --> B[OrderService.PlaceOrder]
     B --> C{Is Order Valid?}
     C -- No --> F[Return Failure]
     C -- Yes --> D[Process Payment]
