@@ -1,5 +1,7 @@
 # 《程序员的道法自然》 The-Tao-of-Programming-Nature
 
+![dao_front_c0ver](https://github.com/user-attachments/assets/2d5ee301-471a-4e87-aa55-754ca8cb07d8)
+
 ### 前言（Preface）
 
 In the vast world of software development, we often chase speed, frameworks, and features. 在浩瀚的软件开发世界中，我们常常追逐速度、框架与功能。
