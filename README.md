@@ -92,7 +92,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 1 · The Dao of Code
 
-#### 第一章 · [代码之道]()
+#### 第一章 · [代码之道](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%81%93%20The%20Dao%20of%20Code.md)
 
 > Code is not just logic. It is intention made manifest.
 > 代码不仅是逻辑，更是意图的具现。
@@ -101,7 +101,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 2 · Wu Wei Coding
 
-#### 第二章 · [无为而编]()
+#### 第二章 · [无为而编](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E6%97%A0%E4%B8%BA%E8%80%8C%E7%BC%96%20Wu%20Wei%20Coding.md)
 
 > Write only what is necessary. Let the system reveal itself.
 > 只写必要之物，让系统自然呈现。
@@ -110,7 +110,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 3 · Harmony with Bugs
 
-#### 第三章 · [与 Bug 共处]()
+#### 第三章 · [与 Bug 共处](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E4%B8%8E%20Bug%20%E5%85%B1%E5%A4%84%20Harmony%20with%20Bugs.md)
 
 > Every bug is a misunderstood truth.
 > 每一个 Bug，都是误解的真理。
@@ -119,7 +119,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 4 · The Flow of Logic
 
-#### 第四章 · [逻辑之流]()
+#### 第四章 · [逻辑之流](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E9%80%BB%E8%BE%91%E4%B9%8B%E6%B5%81%20The%20Flow%20of%20Logic.md)
 
 > Logic is not a rulebook — it is a river.
 > 逻辑不是规则手册，而是一条河流。
@@ -128,7 +128,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 5 · Yin & Yang of Frontend and Backend
 
-#### 第五章 · [前后端的阴阳之道]()
+#### 第五章 · [前后端的阴阳之道](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9A%E5%89%8D%E5%90%8E%E7%AB%AF%E7%9A%84%E9%98%B4%E9%98%B3%E4%B9%8B%E9%81%93%20Yin%20%26%20Yang%20of%20Frontend%20and%20Backend.md)
 
 > UI and services must dance, not collide.
 > 界面与服务应共舞，而非冲突。
@@ -137,7 +137,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 6 · Refactoring as Return to Simplicity
 
-#### 第六章 · [重构即返璞归真]()
+#### 第六章 · [重构即返璞归真](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E9%87%8D%E6%9E%84%E5%8D%B3%E8%BF%94%E7%92%9E%E5%BD%92%E7%9C%9F%20Refactoring%20as%20Return%20to%20Simplicity.md)
 
 > Refactoring is subtraction, not decoration.
 > 重构是减法，不是装饰。
@@ -146,7 +146,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 7 · Event-Driven as Natural Reaction
 
-#### 第七章 · [事件驱动之自然反应]()
+#### 第七章 · [事件驱动之自然反应](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%9A%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E4%B9%8B%E8%87%AA%E7%84%B6%E5%8F%8D%E5%BA%94%20Event-Driven%20as%20Natural%20Reaction.md)
 
 > Events are not orders — they are ripples in the system.
 > 事件不是命令，而是系统中的涟漪。
@@ -155,7 +155,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 8 · Do Less, Achieve More
 
-#### 第八章 · [少即是多]()
+#### 第八章 · [少即是多](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%9A%E5%B0%91%E5%8D%B3%E6%98%AF%E5%A4%9A%20Do%20Less%2C%20Achieve%20More.md)
 
 > Every line you don’t write is one less to maintain.
 > 少写一行，少负一分。
@@ -164,7 +164,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 9 · The Inner Peace of Debugging
 
-#### 第九章 · [调试中的内心平静]()
+#### 第九章 · [调试中的内心平静](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%9A%E8%B0%83%E8%AF%95%E4%B8%AD%E7%9A%84%E5%86%85%E5%BF%83%E5%B9%B3%E9%9D%99%20The%20Inner%20Peace%20of%20Debugging.md)
 
 > You debug better when you debug yourself first.
 > 调试系统之前，先调试内心。
@@ -173,7 +173,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 ### Chapter 10 · The Final Release is Never Final
 
-#### 第十章 · [发布即是开始]()
+#### 第十章 · [发布即是开始](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/%E7%AC%AC%E5%8D%81%E7%AB%A0%EF%BC%9A%E5%8F%91%E5%B8%83%E5%8D%B3%E6%98%AF%E5%BC%80%E5%A7%8B%20The%20Final%20Release%20is%20Never%20Final.md)
 
 > Real software begins when it meets real people.
 > 软件之真正旅程，始于真实世界。
@@ -184,7 +184,7 @@ May you code with purpose, flow with nature, and find peace in every bug. 愿你
 
 * C# 精选代码片段（Selected C# Code Snippets）
 * Mermaid 图全集（All Mermaid Diagrams）
-* GitHub 项目地址（GitHub Repo & QR）
+* [GitHub 项目地址（GitHub Repo & QR）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/README.md)
 
 
 
