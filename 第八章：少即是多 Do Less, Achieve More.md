@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 8: Do Less, Achieve More
 
 ## 第八章：少即是多
