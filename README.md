@@ -11,8 +11,6 @@
 > This book is an invitation to pause — and rediscover the **Dao** behind code.
 > 本书邀请你暂停片刻，重新发现藏于代码背后的“道”。
 
----
-
 > The Dao (道) is the natural order of all things.
 > 道，是万物自然之规律。
 
@@ -21,8 +19,6 @@
 
 > In this way, software becomes not just a craft — but a reflection of who we are.
 > 如此，编程不仅是一门手艺，更是我们内心世界的映照。
-
----
 
 > As a senior software architect and long-time student of classical Eastern thought,
 > 作为一位资深软件架构师，亦是东方古典思想的研习者，
