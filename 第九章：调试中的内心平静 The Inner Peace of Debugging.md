@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 9: The Inner Peace of Debugging
 
 ## 第九章：调试中的内心平静
