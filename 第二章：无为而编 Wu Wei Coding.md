@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 2: Wu Wei Coding
 
 ## 第二章：无为而编
