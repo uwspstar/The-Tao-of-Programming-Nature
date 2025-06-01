@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 3: Harmony with Bugs
 
 ## 第三章：与 Bug 共处
