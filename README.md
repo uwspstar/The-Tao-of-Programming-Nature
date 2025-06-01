@@ -2,71 +2,44 @@
 
 ### 前言（Preface）
 
-> In the vast world of software development, we often chase speed, frameworks, and features.
-> 在浩瀚的软件开发世界中，我们常常追逐速度、框架与功能。
+In the vast world of software development, we often chase speed, frameworks, and features. 在浩瀚的软件开发世界中，我们常常追逐速度、框架与功能。
 
-> Yet, somewhere along the way, we lose our sense of flow.
-> 然而在这个过程中，我们逐渐失去了“流动感”。
+Yet, somewhere along the way, we lose our sense of flow. 然而在这个过程中，我们逐渐失去了“流动感”。
 
-> This book is an invitation to pause — and rediscover the **Dao** behind code.
-> 本书邀请你暂停片刻，重新发现藏于代码背后的“道”。
+This book is an invitation to pause — and rediscover the **Dao** behind code. 本书邀请你暂停片刻，重新发现藏于代码背后的“道”。
 
-> The Dao (道) is the natural order of all things.
-> 道，是万物自然之规律。
+The Dao (道) is the natural order of all things. 道，是万物自然之规律。
 
-> It teaches us to act without force, to build without ego, and to solve without stress.
-> 它教我们无为而为，无我而建，无执而解。
+It teaches us to act without force, to build without ego, and to solve without stress. 它教我们无为而为，无我而建，无执而解。
 
-> In this way, software becomes not just a craft — but a reflection of who we are.
-> 如此，编程不仅是一门手艺，更是我们内心世界的映照。
+In this way, software becomes not just a craft — but a reflection of who we are. 如此，编程不仅是一门手艺，更是我们内心世界的映照。
 
-> As a senior software architect and long-time student of classical Eastern thought,
-> 作为一位资深软件架构师，亦是东方古典思想的研习者，
+As a senior software architect and long-time student of classical Eastern thought, 作为一位资深软件架构师，亦是东方古典思想的研习者，
 
-> I often wondered: can we **code like water**, flow like wind, and build like bamboo grows?
-> 我常自问：我们能否像水一样编程，如风一般流动，似竹那样构建？
+I often wondered: can we **code like water**, flow like wind, and build like bamboo grows? 我常自问：我们能否像水一样编程，如风一般流动，似竹那样构建？
 
-> This book explores exactly that.
-> 这本书，正是对这一追问的回应。
+This book explores exactly that. 这本书，正是对这一追问的回应。
 
----
+Each chapter is a pairing of **a Taoist principle** with **a programming mindset**. 每一章都将一个道家思想与一种编程思维相融合。
 
-> Each chapter is a pairing of **a Taoist principle** with **a programming mindset**.
-> 每一章都将一个道家思想与一种编程思维相融合。
+We explore not just **how to code**, but **how to think while coding**. 我们不仅探讨“如何写代码”，更探讨“写代码时该如何思考”。
 
-> We explore not just **how to code**, but **how to think while coding**.
-> 我们不仅探讨“如何写代码”，更探讨“写代码时该如何思考”。
-
-> And in doing so, we begin to **debug ourselves** as much as we debug systems.
-> 过程中，我们调试的不只是系统，更是我们自己。
+And in doing so, we begin to **debug ourselves** as much as we debug systems. 过程中，我们调试的不只是系统，更是我们自己。
 
 ---
 
 > This book is for:
 > 本书适合以下人群：
 
-* > Developers feeling overwhelmed in the complexity of modern systems
-  > 感到现代系统复杂而焦虑的开发者
-* > Architects seeking timeless design wisdom
-  > 渴望永恒设计智慧的软件架构师
-* > Makers who love simplicity, flow, and elegance
-  > 热爱简约、流畅与优雅的创作者
+* Developers feeling overwhelmed in the complexity of modern systems 感到现代系统复杂而焦虑的开发者
+* Architects seeking timeless design wisdom 渴望永恒设计智慧的软件架构师
+* Makers who love simplicity, flow, and elegance 热爱简约、流畅与优雅的创作者
 
----
+May these chapters serve not as rules — but as quiet companions. 愿本书诸章不为教条，而是你编程路上的静谧陪伴。
 
-> May these chapters serve not as rules — but as quiet companions.
-> 愿本书诸章不为教条，而是你编程路上的静谧陪伴。
+Not prescriptions — but reflections. 不是规范，而是镜照。
 
-> Not prescriptions — but reflections.
-> 不是规范，而是镜照。
-
-> May you code with purpose, flow with nature, and find peace in every bug.
-> 愿你编程有道，顺势而为，于每个 Bug 中发现平静。
-
-好的，以下是《程序员的道法自然》（**The Dao of Code for Programmers**）的中英文双语**目录页（Table of Contents）**，风格采用淡雅、有序、简洁之道，与全书气质一致，适合排版入 PDF 正文前页：
-
----
-以下是《程序员的道法自然》电子书的\*\*“关于作者（About the Authors）”\*\*页，采用中英文逐行编排，风格温润而不自夸，融合职业背景、思想信仰与创作缘起，可直接用于 Amazon KDP 作者页或 PDF 正文：
+May you code with purpose, flow with nature, and find peace in every bug. 愿你编程有道，顺势而为，于每个 Bug 中发现平静。
 
 ---
 
