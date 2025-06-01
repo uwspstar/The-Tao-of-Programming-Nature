@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 6: Refactoring as Return to Simplicity
 
 ## 第六章：重构即返璞归真
