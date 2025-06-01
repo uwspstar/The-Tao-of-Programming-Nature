@@ -28,8 +28,7 @@ And in doing so, we begin to **debug ourselves** as much as we debug systems. �
 
 ---
 
-> This book is for:
-> 本书适合以下人群：
+### This book is for: 本书适合以下人群：
 
 * Developers feeling overwhelmed in the complexity of modern systems 感到现代系统复杂而焦虑的开发者
 * Architects seeking timeless design wisdom 渴望永恒设计智慧的软件架构师
