@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Tao-of-Programming-Nature/blob/main/Index.md)
+
 ## 📘 Chapter 4: The Flow of Logic
 
 ## 第四章：逻辑之流
